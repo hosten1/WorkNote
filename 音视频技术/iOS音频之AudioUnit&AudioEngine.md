@@ -1,8 +1,3 @@
-<style>
-img {
-	max-width:400px;
-}
-</style>
 
 # iOS音频之Audio Unit & AudioEngine
 
